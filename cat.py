@@ -2,6 +2,7 @@ import sys
 # import os
 class Cat:
     """ Linux cat command """
+    """ Pythonda yozamiz """
     def __init__(self):
        pass
 
