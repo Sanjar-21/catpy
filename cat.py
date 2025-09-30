@@ -1,6 +1,7 @@
 import sys
 # import os
 class Cat:
+    """ Linux cat command """
     def __init__(self):
        pass
 
